@@ -57,6 +57,9 @@ Image:
 ## Mentioning-people-and-teams
 @shambu
 
+## Emogies
+Example : 	😀	:grinning:	😃	:smiley:
+
 
 
 
