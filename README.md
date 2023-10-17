@@ -50,15 +50,31 @@ Image:
           - Second nested list item
 
 ## Task List
-  - [x] #739
-  - [ ] https://github.com/octo-org/octo-repo/issues/740
-  - [ ] Add delight to the experience when all tasks are complete :tada:
+   - [x] #739
+   - [ ] https://github.com/octo-org/octo-repo/issues/740
+   - [ ] Add delight to the experience when all tasks are complete :tada:
 
 ## Mentioning-people-and-teams
 @shambu
 
 ## Emogies
-Example : 	😀	:grinning:	😃	:smiley:
+  Example : 	😀	:grinning:	😃	:smiley:
+
+## Alerts
+  > [!NOTE]
+  > Highlights information that users should take into account, even when skimming.
+  
+  > [!IMPORTANT]
+  > Crucial information necessary for users to succeed.
+  
+  > [!WARNING]
+  > Critical content demanding immediate user attention due to potential risks.
+
+## Hiding-content-with-comments
+  Below content is hiden
+  <!-- This content will not appear in the rendered Markdown -->
+
+
 
 
 
