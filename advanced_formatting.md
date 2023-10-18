@@ -20,3 +20,17 @@ You can add an image or a code block, too.
 ```
 
 </details>
+
+## Creating and highlighting code blocks
+```
+function test() {
+  console.log("notice the blank line before this function?");
+}
+```
+
+```javascript
+let data = "shambu";
+console.log(data);
+```
+
+
