@@ -74,6 +74,9 @@ Image:
   Below content is hiden
   <!-- This content will not appear in the rendered Markdown -->
 
+  ## Sample component documentaion
+  [Component document](https://github.com/angular/components/blob/main/src/youtube-player/README.md)
+
 
 
 
